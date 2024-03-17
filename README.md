@@ -49,7 +49,7 @@ Paper: https://openreview.net/pdf?id=WIzzXCVYiH
 * See `model_training.ipynb` for how to load the model checkpoints.
 
 ### Datasets
-* Here's the [link](https://drive.google.com/file/d/1Jh7kUxOGZdpQrEDae5r3lOhR5k_zRAFI/view?usp=share_link) for downloading the processed datasets.
+* Here's the [link](https://drive.google.com/file/d/1O3IRF9mhL2KCCU1eVlCEdssaf6y-pq2h/view?usp=sharing) for downloading the processed datasets.
 * After downloading the datasets zip, please `unzip` it in the root folder.
 
 ### Environment
