@@ -2,6 +2,4 @@ from .class_score_criterion import ClassScoreCriterion
 from .cross_entropy_boundary_criterion import CrossEntropyBoundaryCriterion
 from .dynamic_balancing_boundary_criterion import DynamicBalancingBoundaryCriterion
 from .embedding_criterion import EmbeddingCriterion
-from .mean_abs_boundary_criterion import MeanAbsBoundaryCriterion
-from .mean_square_boundary_criterion import MeanSquareBoundaryCriterion
 from .weighted_criterion import WeightedCriterion
