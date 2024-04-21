@@ -57,9 +57,10 @@ Codes in this repo have been tested on `python3.10` + `pytorch2.1` + `pyg2.5`.
 
 To reproduce the exact python environment, please run:
 ```bash
-conda create -n gnnboundary poetry
+conda create -n gnnboundary poetry jupyter
 conda activate gnnboundary
 poetry install
+ipython kernel install --user --name=gnnboundary --display-name="GNNBoundary"
 ```
 
 ## 🖼️ Demo
