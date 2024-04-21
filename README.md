@@ -57,10 +57,9 @@ Codes in this repo have been tested on `python3.10` + `pytorch2.1` + `pyg2.5`.
 
 To reproduce the exact python environment, please run:
 ```bash
-conda env create -n gnnboundary -f environment.yml
+conda create -n gnnboundary poetry
 conda activate gnnboundary
-pip install torch_geometric
-pip install --no-cache-dir --ignore-installed torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.1.0+cpu.html
+poetry install
 ```
 
 ## 🖼️ Demo
