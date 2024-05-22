@@ -36,6 +36,11 @@ thoroughly assess the robustness and generalizability of the explained GNNs.
 
 Paper: https://openreview.net/pdf?id=WIzzXCVYiH
 
+## 🔗 Prior Work - GNNInterpreter
+GNNBoundary is inspired by our prior work, GNNInterpreter, which aims to explain the high-level decision-making process of GNNs. Please check this [repository](https://github.com/yolandalalala/GNNInterpreter) for more details.
+
+Paper: https://openreview.net/forum?id=rqq6Dh8t4d
+
 ## 🔥 How to use
 
 ### Notebooks
